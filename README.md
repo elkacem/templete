@@ -1,2 +1,2 @@
 # book
-html5/css3
+using only HTML5 and CSS3
